@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Methodology\\and Implementation}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Dataset and\\Preprocessing}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Classification Algorithms}{1}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Distance Metrics}{1}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Performance Evaluation}{2}{section.3}%
+\contentsline {section}{\numberline {4}Discussion and Conclusion}{2}{section.4}%

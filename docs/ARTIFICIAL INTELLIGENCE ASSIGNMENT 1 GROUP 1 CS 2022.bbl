@@ -1,0 +1,56 @@
+\begin{thebibliography}{10}
+
+\bibitem{fix_1989_discriminatory}
+E.~Fix and J.~L. Hodges, ``Discriminatory analysis. nonparametric
+  discrimination: Consistency properties,'' {\em International Statistical
+  Review / Revue Internationale de Statistique}, vol.~57, p.~238, 12 1989.
+
+\bibitem{grant_2022_how}
+M.~Grant, ``How nonparametric statistics work,'' 10 2022.
+
+\bibitem{googlecloud_what}
+G.~Cloud, ``What is supervised learning?.''
+
+\bibitem{BELLOTTI2014115}
+T.~Bellotti, I.~Nouretdinov, M.~Yang, and A.~Gammerman, ``Chapter 6 - feature
+  selection,'' in {\em Conformal Prediction for Reliable Machine Learning}
+  (V.~N. Balasubramanian, S.-S. Ho, and V.~Vovk, eds.), pp.~115--130, Boston:
+  Morgan Kaufmann, 2014.
+
+\bibitem{brownlee_2023}
+J.~Brownlee, ``A gentle introduction to k-fold cross-validation,'' 10 2023.
+
+\bibitem{arya_2022_why}
+N.~Arya, ``Why use k-fold cross validation?,'' 07 2022.
+
+\bibitem{berrar_2019_crossvalidation}
+D.~Berrar, ``Cross-validation,'' {\em Encyclopedia of Bioinformatics and
+  Computational Biology}, vol.~1, pp.~542--545, 2019.
+
+\bibitem{HAN201239}
+J.~Han, M.~Kamber, and J.~Pei, ``2 - getting to know your data,'' in {\em Data
+  Mining (Third Edition)} (J.~Han, M.~Kamber, and J.~Pei, eds.), The Morgan
+  Kaufmann Series in Data Management Systems, pp.~39--82, Boston: Morgan
+  Kaufmann, third edition~ed., 2012.
+
+\bibitem{tabak2014geometry}
+J.~Tabak, {\em Geometry: The Language of Space and Form}.
+\newblock Facts on File math library, Facts On File, Incorporated, 2014.
+
+\bibitem{stephanie_2017_mahalanobis}
+Stephanie, ``Mahalanobis distance: Simple definition, examples,'' 11 2017.
+
+\bibitem{mclachlan_1999}
+G.~Mclachlan, ``Mahalanobis distance,'' {\em Resonance}, vol.~4, pp.~20--26, 06
+  1999.
+
+\bibitem{google_2024_classification}
+Google, ``Classification: Accuracy, recall, precision, and related metrics,''
+  2024.
+
+\bibitem{cosine_euclidian}
+L.~(https://stats.stackexchange.com/users/7733/lucas), ``Is cosine similarity
+  identical to l2-normalized euclidean distance?.'' Cross Validated.
+\newblock URL:https://stats.stackexchange.com/q/146279 (version: 2015-04-14).
+
+\end{thebibliography}
